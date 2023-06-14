@@ -21,9 +21,6 @@ extensions = ['breathe']
 # this is where the xml should be placed
 breathe_projects = {"keywords-ext": "_doxygen/xml"}
 breathe_default_project = "keywords-ext"
-breathe_projects_source = {
-    "keywords-ext" : ("./nestkernel")
-}
 
 templates_path = ['_templates']
 exclude_patterns = []

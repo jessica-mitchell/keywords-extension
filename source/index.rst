@@ -7,7 +7,7 @@ Welcome to keywords-extension's documentation!
 ==============================================
 
 
-.. autodoxygenindex:: 
+.. doxygenindex:: 
    :project: keywords-ext
 
 
