@@ -6,6 +6,11 @@
 Welcome to keywords-extension's documentation!
 ==============================================
 
+
+.. autodoxygenindex:: 
+   :project: keywords-ext
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
