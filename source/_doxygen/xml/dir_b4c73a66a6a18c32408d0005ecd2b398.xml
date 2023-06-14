@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="dir_b4c73a66a6a18c32408d0005ecd2b398" kind="dir">
+    <compoundname>source/nestkernel</compoundname>
+    <innerfile refid="io__manager_8cpp">io_manager.cpp</innerfile>
+    <innerfile refid="io__manager_8h">io_manager.h</innerfile>
+    <innerfile refid="io__manager__impl_8h">io_manager_impl.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="source/nestkernel/"/>
+  </compounddef>
+</doxygen>

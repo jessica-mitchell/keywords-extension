@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.1" xml:lang="en-US">
+  <compounddef id="namespacenest" kind="namespace" language="C++">
+    <compoundname>nest</compoundname>
+    <innerclass refid="classnest_1_1_i_o_manager" prot="public">nest::IOManager</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="source/nestkernel/io_manager.cpp" line="58" column="1"/>
+  </compounddef>
+</doxygen>

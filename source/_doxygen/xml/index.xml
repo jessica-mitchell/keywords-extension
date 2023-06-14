@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.1" xml:lang="en-US">
+  <compound refid="classnest_1_1_i_o_manager" kind="class"><name>nest::IOManager</name>
+    <member refid="classnest_1_1_i_o_manager_1afd41792efb97d9e248a2bd16a112e686" kind="variable"><name>data_path_</name></member>
+    <member refid="classnest_1_1_i_o_manager_1abe8ff451d220ff8a568770a6fe652753" kind="variable"><name>data_prefix_</name></member>
+    <member refid="classnest_1_1_i_o_manager_1ad22af7e76e6b1c714a1c091a6cac7fad" kind="variable"><name>overwrite_files_</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a311bf44eae72b0da814da3f884b32c91" kind="variable"><name>recording_backends_</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a421dcc38292af7f9bb829b1c8861a692" kind="variable"><name>stimulation_backends_</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a6bf0e3020cc5034b21e54b8d08aaf07d" kind="function"><name>IOManager</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a1295fec5e17aa380f14b7f400034026e" kind="function"><name>~IOManager</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a290ac3d72efc43aca30e9fee71a58e7d" kind="function"><name>initialize</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a3be125abfc84273887bd4ac2c5141117" kind="function"><name>finalize</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a19ecf96537dddb09b4041429ed2d3463" kind="function"><name>change_number_of_threads</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a33572c6b6c01fb2e171a7087689899fd" kind="function"><name>set_status</name></member>
+    <member refid="classnest_1_1_i_o_manager_1ab9b64bde6b49a812f8bf79d2e751b92d" kind="function"><name>get_status</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a51667a7f223ca51e759864a82d80a39d" kind="function"><name>set_recording_backend_status</name></member>
+    <member refid="classnest_1_1_i_o_manager_1ad533f89beed43cfe1a551294d3291e4c" kind="function"><name>get_recording_backend_status</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a5eda33427b6d2c6f82a60522cfec712a" kind="function"><name>get_data_prefix</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a51e836794c1c8c93e91e3d7da09bc659" kind="function"><name>get_data_path</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a9f49317b6a8eb0022ce1bb05ff2a6b45" kind="function"><name>overwrite_files</name></member>
+    <member refid="classnest_1_1_i_o_manager_1af7b3cc35bfd52864025b750eb379419f" kind="function"><name>post_run_hook</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a0afe64b47ac69a05d8fa168cc07b52b4" kind="function"><name>pre_run_hook</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a9a8ec95f6913114fbed606cf6801eaf8" kind="function"><name>post_step_hook</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a391dcdfc0fb7aa519ea04e5d9fdc16db" kind="function"><name>cleanup</name></member>
+    <member refid="classnest_1_1_i_o_manager_1ac227a02839b2cf4a54ba8887bff313d8" kind="function"><name>prepare</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a2a04dad75c5bccb594d51f5e0f746bca" kind="function"><name>register_recording_backend</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a08284ba0d4f428743aadc68da3a02ef4" kind="function"><name>register_stimulation_backend</name></member>
+    <member refid="classnest_1_1_i_o_manager_1afc53dc77e06d24c7b79fb5d81f788b7d" kind="function"><name>is_valid_recording_backend</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a36f2bb67ce7fdd6ee42a4e96df41e44c" kind="function"><name>is_valid_stimulation_backend</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a76f3feb9f444abdc61b1ccd0c0055dcc" kind="function"><name>write</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a12a0b4ed29422e77d365e8ec0567029c" kind="function"><name>enroll_recorder</name></member>
+    <member refid="classnest_1_1_i_o_manager_1ae6ad8da82d9b3055a76af0b25b04fed6" kind="function"><name>enroll_stimulator</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a4269c5a95da4d9c690469ac18c1076d9" kind="function"><name>set_recording_value_names</name></member>
+    <member refid="classnest_1_1_i_o_manager_1aaae0477886a9585abf7a49cf52db07c5" kind="function"><name>check_recording_backend_device_status</name></member>
+    <member refid="classnest_1_1_i_o_manager_1ab2be071ad5a2edc77cab1a591bd61b75" kind="function"><name>get_recording_backend_device_defaults</name></member>
+    <member refid="classnest_1_1_i_o_manager_1aa42bc681499dc01a2434cad08a741caf" kind="function"><name>get_recording_backend_device_status</name></member>
+    <member refid="classnest_1_1_i_o_manager_1a88d6a0d1c97fb4dd1c477a5fdd902ff8" kind="function"><name>set_data_path_prefix_</name></member>
+  </compound>
+  <compound refid="namespacenest" kind="namespace"><name>nest</name>
+  </compound>
+  <compound refid="io__manager_8cpp" kind="file"><name>io_manager.cpp</name>
+  </compound>
+  <compound refid="io__manager_8h" kind="file"><name>io_manager.h</name>
+  </compound>
+  <compound refid="io__manager__impl_8h" kind="file"><name>io_manager_impl.h</name>
+  </compound>
+  <compound refid="dir_b4c73a66a6a18c32408d0005ecd2b398" kind="dir"><name>source/nestkernel</name>
+  </compound>
+  <compound refid="dir_b2f33c71d4aa5e7af42a1ca61ff5af1b" kind="dir"><name>source</name>
+  </compound>
+</doxygenindex>
